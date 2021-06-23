@@ -1,0 +1,12 @@
+{
+  "name": "cartLabsMobileApp",
+  "displayName": "cartLabsMobileApp",
+  "expo": {
+    "name": "cartLabsMobileApp",
+    "slug": "cartLabsMobileApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
